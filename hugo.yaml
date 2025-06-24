@@ -17,11 +17,11 @@ params:
 
 menus:
   main:
+    - name: Início
+      pageRef: /
+      weight: 10
     - name: Sobre
       pageRef: /about
-      weight: 10
-    - name: Contato
-      pageRef: /contact
       weight: 20
 
 taxonomies:
