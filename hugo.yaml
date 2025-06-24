@@ -1,9 +1,9 @@
 baseURL: https://guibperes.github.io/blog/
 languageCode: pt-br
 
-title: Guilherme Beidaki Peres
+title: guibperes
 author: Guilherme Beidaki Peres
-copyright: "© Guilherme Beidaki Peres 2025. All rights reserved."
+copyright: "guibperes © Guilherme Beidaki Peres 2025. All rights reserved."
 
 theme: ["paper"]
 params:
