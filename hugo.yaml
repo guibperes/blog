@@ -8,6 +8,7 @@ theme: ["paper"]
 params:
   rss: true
   monoDarkIcon: true
+  customCSS: ["css/custom.css"]
 
   instagram: guibperes
   linkedin: guibperes
