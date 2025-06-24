@@ -9,6 +9,10 @@ params:
   rss: true
   monoDarkIcon: true
 
+  instagram: guibperes
+  linkedin: guibperes
+  github: guibperes
+
 menus:
   main:
     - name: Sobre
