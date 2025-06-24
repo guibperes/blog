@@ -1,0 +1,8 @@
+baseURL: https://example.org/
+languageCode: pt-br
+title: Guilherme Beidaki Peres
+theme: ["paper"]
+params:
+  rss: true
+  monoDarkIcon: true
+
