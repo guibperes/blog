@@ -1,8 +1,24 @@
 baseURL: https://example.org/
 languageCode: pt-br
+
 title: Guilherme Beidaki Peres
+author: Guilherme Beidaki Peres
+
 theme: ["paper"]
 params:
   rss: true
   monoDarkIcon: true
 
+menus:
+  main:
+    - name: Sobre
+      pageRef: /about
+      weight: 10
+    - name: Contato
+      pageRef: /contact
+      weight: 20
+
+taxonomies:
+  category: "categories"
+  tag: "tags"
+  series: "series"
