@@ -3,7 +3,7 @@ date: "2025-06-24T11:06:46-03:00"
 title: "Sobre"
 ---
 
-![Avatar](avatar.jpg)
+{{< image src="about/avatar.jpg" alt="Avatar" >}}
 
 “Faz o que deves e está no que fazes.” — São Josemaria Escrivá
 
