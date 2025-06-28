@@ -46,8 +46,6 @@ jobs:
         with:
           submodules: recursive
           token: ${{ secrets.CONTENT_REPO_TOKEN }}
-      - name: Update submodules
-        run: git submodule update --init --recursive --remote
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
