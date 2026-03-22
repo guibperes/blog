@@ -1,6 +1,5 @@
 ---
-date: '2026-03-17T14:00:00-03:00'
-draft: true
+date: '2026-03-21T23:00:00-03:00'
 title: 'O Pequeno Principe e o início da vida espiritual'
 ---
 
@@ -30,10 +29,10 @@ Na tradição espiritual cristã, a vida interior não começa com práticas
 extraordinárias, mas com uma transformação, uma purificação do olhar.
 Como ensina o Evangelho: “a lâmpada do corpo é o olho: se teu olho for
 bom, ficarás todo cheio de luz” (Mt 6,22). A espiritualidade, portanto,
-inicia-se com a purificação do coração, que permite ao homem ver corretamente
+inicia-se com a purificação do coração, que permite a pessoa ver corretamente
 – a si mesmo, o mundo e Deus. Desde os Padres do Deserto até os grandes
 místicos, a experiência espiritual é descrita como um processo de purificação
-interior que restitui ao homem a capacidade de perceber o essencial.
+interior que restitui a pessoa a capacidade de perceber o essencial.
 
 Dessa forma, a obra pode ser lida e recomendada como uma introdução ao
 caminho interior. Isso acontece porque o livro educa o olhar, purifica
@@ -62,11 +61,11 @@ vícios espirituais muito comuns:
 
 | Personagem | Simboliza |
 | ---------- | ---------- |
-| O rei | sede de poder |
-| O vaidoso | busca de aprovação |
-| O bêbado | fuga da realidade |
-| O homem de negócios | materialismo |
-| O geógrafo | conhecimento sem experiência |
+| O Rei | sede de poder |
+| O Vaidoso | busca de aprovação |
+| O Bêbado | fuga da realidade |
+| O Homem de negócios | materialismo |
+| O Geógrafo | conhecimento sem experiência |
 
 Esses personagens vivem vidas sem sentido real, porque perderam o contato com o
 essencial: o Rei busca controlar ao invés de amar; o Vaidoso busca aprovação em
@@ -80,7 +79,7 @@ compreende a vida humana a partir do amor. Para ele, o erro não está na
 intensidade do amor, mas na sua desordem: amar o que é passageiro como se
 fosse absoluto, e relegar o essencial a um segundo plano. Por isso, segundo
 Agostinho, viver bem é, em última instância, aprender a amar na ordem
-correta (ordo amoris). Dessa forma, os vícios apresentados no livro revelam
+correta (*ordo amoris*). Dessa forma, os vícios apresentados no livro revelam
 não a ausência de sentido, mas a sua substituição por algo menor.
 
 ## Tornar-se como criança
@@ -136,8 +135,8 @@ A amizade transforma a percepção da realidade.
 
 No entanto, esse vínculo não surge de forma instantânea. Ele exige paciência,
 proximidade e repetição de gestos. A raposa fala da importância dos rituais,
-dos encontros marcados e da constância. Há aqui uma profunda sabedoria
-espiritual: as relações mais importantes da vida são construídas lentamente.
+dos encontros marcados e da constância. Há aqui uma sabedoria espiritual:
+as relações mais importantes da vida são construídas lentamente.
 
 Essa lógica também se aplica à relação com Deus. A vida espiritual não se
 desenvolve por meio de experiências extraordinárias, mas pela fidelidade
@@ -220,7 +219,7 @@ pois há um sentido e um propósito que orientam o cotidiano.
 ### 4. Busca pelo essencial
 
 A frase central no livro – “O essencial é invisível aos olhos” –
-expressa algo que toda a tradição cristã afirma: A realidade mais
+expressa algo que toda a tradição cristã afirma: a realidade mais
 profunda da vida não é material. A graça, o amor, a amizade, e Deus,
 tudo isso é invisível, mas é o que sustenta a existência, é o que dá sentido a ela.
 
@@ -228,13 +227,13 @@ tudo isso é invisível, mas é o que sustenta a existência, é o que dá senti
 
 Dessa forma, a jornada do Pequeno Príncipe pode ser compreendida como uma
 imagem do itinerário espiritual humano. O caminho começa na desordem interior,
-quando o homem vive disperso entre amores secundários. Em seguida, surge a
+quando a pessoa vive disperso entre amores secundários. Em seguida, surge a
 consciência dessa superficialidade, que abre espaço para uma purificação do
-olhar — condição necessária para perceber o essencial. A partir daí, o homem
+olhar — condição necessária para perceber o essencial. A partir daí, a pessoa
 redescobre o amor concreto, aprende a fidelidade nas relações e, pouco a pouco,
 torna-se capaz de reconhecer que aquilo que sustenta a vida não é visível.
 Nesse ponto, o caminho espiritual revela sua profundidade última: o invisível ao
-qual o homem se abre não é apenas um valor abstrato, mas o próprio Deus,
+qual a pessoa se abre não é apenas um valor abstrato, mas o próprio Deus,
 fundamento e fim de todo amor.
 
 Este caminho não é uma negação ou fuga da realidade, mas uma reorganização
