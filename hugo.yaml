@@ -10,6 +10,8 @@ params:
   rss: true
   monoDarkIcon: true
   customCSS: ["css/custom.css"]
+  favicon: "favicon.ico"
+  appleTouchIcon: "apple-touch-icon.png"
 
   linkedin: guibperes
   github: guibperes
