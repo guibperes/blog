@@ -1,6 +1,7 @@
 ---
 date: '2026-03-30T17:01:49-03:00'
 title: 'A Montanha da Ascese: Uma Imagem da Vida Espiritual'
+tags: ['espiritualidade']
 ---
 
 A vida espiritual cristã pode ser compreendida por meio de diversas imagens
