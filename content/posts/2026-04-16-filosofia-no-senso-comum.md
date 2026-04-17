@@ -1,6 +1,5 @@
 ---
-date: '2026-04-16T14:33:05-03:00'
-draft: true
+date: '2026-04-17T11:30:00-03:00'
 title: 'A Filosofia no Senso Comum: Por que ela parece esotérica? E como corrigir isso'
 tags: ['filosofia']
 ---
@@ -40,7 +39,15 @@ No Brasil, essa compreensão foi fragilizada por fatores históricos concretos, 
 * foi substituída por disciplinas de caráter ideológico: **Educação Moral e Cívica** e **Organização Social e Política do Brasil**;
 * o foco passou a ser técnico e instrumental.
 
-Isso gerou um efeito profundo: **gerações inteiras foram privadas do contato com a filosofia como disciplina estruturada**. Somente em 1996, com a [Lei nº 9.394](https://www.planalto.gov.br/ccivil_03/leis/l9394.htm), que ela retornou para o currículo, e em 2008, com a [Lei nº 11.684](https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2008/Lei/L11684.htm), que ela tornou-se obrigatória no ensino médio.
+Isso gerou um efeito profundo: **gerações inteiras foram privadas do contato com a filosofia como disciplina estruturada**. A cronologia para a reintegração da filosofia no currículo brasileiro também não é muito animadora:
+
+* Em 1996, a [Lei nº 9.394 (LDB)](https://www.planalto.gov.br/ccivil_03/leis/l9394.htm) estabeleceu as diretrizes e bases da educação nacional. Porém, a filosofia não foi incluída como disciplina obrigatória. O art. 36, §1º, inciso III, previu apenas que ao final do ensino médio o aluno deveria demonstrar "domínio dos conhecimentos de Filosofia e de Sociologia necessários ao exercício da cidadania", o que foi interpretado de formas variadas pelos sistemas de ensino, sem garantia de uma disciplina com carga horária própria;
+* Em 2008, a [Lei nº 11.684](https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2008/Lei/L11684.htm) alterou o art. 36 da LDB e determinou: "serão incluídas a Filosofia e a Sociologia como disciplinas obrigatórias em todas as séries do ensino médio". Foi a primeira vez, desde a ditadura militar, que a filosofia teve obrigatoriedade plena e expressa como componente curricular autônomo em todo o ensino médio;
+* Em 2016, o governo federal editou a [Medida Provisória nº 746](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/mpv/mpv746.htm), iniciando o processo que ficou conhecido como Reforma do Ensino Médio, retirando filosofia e sociologia do rol de disciplinas obrigatórias nominadas;
+* Em 2017, a MP 746/2016 foi convertida na [Lei nº 13.415](https://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2017/Lei/L13415.htm) (Novo Ensino Médio). Com essa lei, filosofia e sociologia voltaram à condição de disciplinas não obrigatórias na educação básica brasileira. A filosofia passou a constar na Base Nacional Comum Curricular (BNCC) apenas como "estudos e práticas" dentro da área de Ciências Humanas, sem disciplina autônoma garantida e sem carga horária mínima nacional. Na prática, muitas redes estaduais reduziram drasticamente a carga horária, e em diversas delas as disciplinas passaram a ocupar apenas um tempo semanal, concentrado em uma única série;
+* Em 2024, a [Lei nº 14.945](https://www.planalto.gov.br/ccivil_03/_Ato2023-2026/2024/Lei/L14945.htm) reformou novamente o ensino médio. A norma alterou a LDB e revogou parcialmente a Lei nº 13.415/2017, retomando a carga horária da formação geral básica e reintegrando os componentes curriculares. A filosofia voltou a ser nomeada expressamente na lei, agora integrada à área de ciências humanas e sociais aplicadas, com determinação de que essa formação geral seja cumprida integralmente. Contudo, a lei não garantiu a filosofia como disciplina autônoma em todas as séries nem fixou carga horária mínima nacional para ela especificamente, deixando essas decisões ao critério de cada sistema estadual de ensino.
+
+Agradeço à advogada [Amanda Beserra Gonçalves](https://beserragoadv.com) pela ajuda ao reconstruir esta cronologia.
 
 Esse ponto é muitas vezes subestimado. Quando uma área do conhecimento desaparece da formação básica, ela não desaparece apenas institucionalmente, ela desaparece culturalmente. O resultado é que a filosofia passa a ser percebida como:
 
@@ -49,13 +56,13 @@ Esse ponto é muitas vezes subestimado. Quando uma área do conhecimento desapar
 * pouco útil;
 * difícil de compreender.
 
-Esse fenômeno pode ser iluminado por Immanuel Kant, que define o esclarecimento como:
+Portanto, podemos perceber o descaso do Estado brasileiro em relação à construção do senso crítico e a formação intelectual não-técnica de seus cidadãos. Isso ecoa a frase escrita por Darcy Ribeiro em seu livro *Sobre o óbvio*: "a crise educacional do Brasil da qual tanto se fala, não é uma crise, é um programa. Um programa em curso, cujos frutos, amanhã, falarão por si mesmos". Esse fenômeno também pode ser iluminado por Immanuel Kant, que define o esclarecimento como:
 
 > "a saída do homem de sua menoridade".
 >
 > (O Que é Esclarecimento?, 1784)
 
-Se o uso público da razão é enfraquecido, a própria capacidade de reconhecer o que é pensamento rigoroso também se enfraquece. No entanto, essa ruptura histórica, embora importante, não explica completamente a situação atual.
+Portanto, se o uso público da razão é enfraquecido, a própria capacidade de reconhecer o que é pensamento rigoroso também se enfraquece. No entanto, essa ruptura histórica, embora importante, não explica completamente a situação atual.
 
 ## A cultura contemporânea e a "espiritualização" da filosofia
 
@@ -144,7 +151,7 @@ A combinação desses fatores gera uma inversão:
 * o que é rigoroso passa a parecer inútil;
 * o que é superficial passa a parecer profundo.
 
-E, assim, a filosofia perde sua identidade, o seu sentido, sua objetividade e a sua importância. Olhando para o pensamento de Santo Tomás de Aquino, podemos pensar que **o estudo da filosofia não visa saber o que os homens pensaram, mas a verdade das coisas** (*Expositio libri Posteriorum Analyticorum*, paráfrase do pensamento de Tomás de Aquino). Dessa forma, o *Aquinate*, mostra que a filosofia não é expressão subjetiva, mas investigação objetiva, uma compreensão das suas causas e princípios, da sua natureza, e não somente decorar e citar frases soltas de autores.
+E, assim, a filosofia perde sua identidade, o seu sentido, sua objetividade e a sua importância. Olhando para o pensamento de Santo Tomás de Aquino, podemos intuir que **o estudo da filosofia não visa saber o que os homens pensaram, mas a verdade das coisas** (*Expositio libri Posteriorum Analyticorum*, paráfrase do pensamento de Tomás de Aquino). Dessa forma, o *Aquinate*, mostra que a filosofia não é expressão subjetiva, mas investigação objetiva, uma compreensão das suas causas e princípios, da sua natureza, e não somente decorar e citar frases soltas de autores.
 
 ## Como recuperar uma visão correta da filosofia?
 
@@ -154,7 +161,7 @@ O primeiro passo é recolocar a filosofia no seu eixo próprio: a busca da verda
 
 Essa orientação já estava presente na origem da filosofia. Em Aristóteles, a filosofia primeira é definida como o conhecimento das causas primeiras e dos princípios. Isso significa que filosofar não é refletir livremente, mas investigar com rigor aquilo que fundamenta a realidade. Do mesmo modo, em Platão, a distinção entre *doxa* e *episteme* mostra que **a filosofia começa justamente quando se ultrapassa o nível da opinião e se busca um conhecimento necessário e universal.**
 
-Além disso, recuperar a filosofia exige restaurar seu caráter crítico. Descartes propõe, nas *Meditações*, que se coloque em dúvida tudo aquilo que pode ser duvidado, não como ceticismo destrutivo, mas como método para alcançar uma certeza firme. Filosofar, nesse sentido, **não é aceitar ideias reconfortantes, mas submeter as próprias crenças ao exame da razão.**
+Além disso, recuperar a filosofia exige restaurar seu caráter crítico. Descartes propõe que se coloque em dúvida tudo aquilo que pode ser duvidado, não como ceticismo destrutivo, mas como método para alcançar uma certeza firme. Filosofar, nesse sentido, **não é aceitar ideias reconfortantes, mas submeter as próprias crenças ao exame da razão.**
 
 Esse caráter crítico também aparece em Kant, para quem o esclarecimento consiste na saída da menoridade por meio do **uso autônomo da razão**. A filosofia, portanto, não é uma prática de introspecção subjetiva, mas um exercício de autonomia intelectual: pensar por si mesmo, segundo princípios racionais.
 
