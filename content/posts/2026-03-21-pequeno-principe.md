@@ -1,6 +1,6 @@
 ---
 date: "2026-03-21T23:00:00-03:00"
-title: "O Pequeno Principe e o início da vida espiritual"
+title: "O Pequeno Príncipe e o início da vida espiritual"
 tags: ["espiritualidade"]
 aliases:
 - "pequeno-principe"
