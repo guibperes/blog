@@ -5,7 +5,10 @@ title: guibperes
 author: Guilherme Beidaki Peres
 copyright: "guibperes © Guilherme Beidaki Peres 2025. All rights reserved."
 
-theme: ["paper"]
+module:
+  imports:
+    - path: "github.com/nanxiaobei/hugo-paper"
+
 params:
   rss: true
   monoDarkIcon: true
