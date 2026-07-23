@@ -56,17 +56,6 @@ jobs:
           sudo dpkg -i "$DEB"
           hugo version
 
-      - name: Setup Node.js
-        if: hashFiles('package-lock.json', 'npm-shrinkwrap.json') != ''
-        uses: actions/setup-node@v4
-        with:
-          node-version: 22
-          cache: npm
-
-      - name: Install Node.js dependencies
-        if: hashFiles('package-lock.json', 'npm-shrinkwrap.json') != ''
-        run: npm ci
-
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
