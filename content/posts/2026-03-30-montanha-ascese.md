@@ -1,6 +1,7 @@
 ---
 date: '2026-03-30T17:01:49-03:00'
 title: 'A Montanha da Ascese: Uma Imagem da Vida Espiritual'
+summary: 'Nenhum montanhista sobe sem mapa, bússola e alimento. A imagem da montanha para entender as vias purgativa, iluminativa e unitiva — e por que ninguém alcança o cume por forças próprias.'
 tags: ['espiritualidade']
 ---
 

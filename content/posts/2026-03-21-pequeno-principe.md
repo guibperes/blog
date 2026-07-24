@@ -1,9 +1,10 @@
 ---
-date: "2026-03-21T23:00:00-03:00"
-title: "O Pequeno Príncipe e o início da vida espiritual"
-tags: ["espiritualidade"]
+date: '2026-03-21T23:00:00-03:00'
+title: 'O Pequeno Príncipe e o início da vida espiritual'
+summary: 'Sob a aparência de livro infantil, uma pedagogia do olhar. O que a rosa, a raposa e os adultos apressados ensinam sobre o começo da vida interior.'
+tags: ['espiritualidade', 'literatura']
 aliases:
-- "pequeno-principe"
+- 'pequeno-principe'
 ---
 
 O Pequeno Príncipe, escrito por Antoine de Saint-Exupéry em 1943, narra a

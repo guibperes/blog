@@ -1,6 +1,7 @@
 ---
 date: '2026-04-17T11:30:00-03:00'
 title: 'A Filosofia no Senso Comum: Por que ela parece esotérica? E como corrigir isso'
+summary: 'O estoicismo virou autoajuda; Nietzsche, frase de efeito. Como o ensino interrompido e a lógica das redes fizeram a filosofia parecer esotérica — e o que a tradição diz para recuperá-la.'
 tags: ['filosofia']
 ---
 
