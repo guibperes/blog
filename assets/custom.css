@@ -1,4 +1,5 @@
-p {
+p,
+li {
   text-align: justify;
   text-justify: inter-word;
 }
