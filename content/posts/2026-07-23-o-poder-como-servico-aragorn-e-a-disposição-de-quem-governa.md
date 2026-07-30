@@ -100,16 +100,16 @@ confiança.
 
 Seria um equívoco, entretanto, concluir que Aragorn é indiferente ao reino. Ele
 o deseja: revela-se deliberadamente no Palantír para desafiar Sauron, desdobra o
-estandarte quando chega a hora, reivindica publicamente sua condição, e sabe que
-somente como rei poderá desposar Arwen. Há desejo, e desejo intenso.
+estandarte, e, quando chega a hora, reivindica publicamente sua condição,
+sabendo que somente como rei poderá desposar Arwen. Há desejo, e desejo intenso.
 
 Isso não enfraquece o argumento; ao contrário, o precisa. **A oposição
 verdadeira não se dá entre desejar o poder e não desejá-lo, mas entre o desejo
 ordenado e a _libido dominandi_.** O desejo ordenado quer o poder pelo bem que
 ele permite realizar, aceita recebê-lo de outros e submete-se ao seu momento
 próprio; a paixão de dominar quer o poder por si mesmo, e por isso não tolera
-nem espera nem mediação. Trata-se, uma vez mais, do princípio agostiniano do
-_ordo amoris_: o problema não está na intensidade do amor, mas na sua ordem.
+espera nem mediação. Trata-se, uma vez mais, do princípio agostiniano do _ordo
+amoris_: o problema não está na intensidade do amor, mas na sua ordem.
 
 ## Denethor: o poder como posse
 
@@ -120,7 +120,7 @@ cidade. Precisamente por isso ele é o contraexemplo decisivo: **o problema que
 se quer descrever não é o do tirano evidente, mas o do governante legítimo que
 passou a tratar o cargo como propriedade.**
 
-Denethor recusa-se a considerar a possibilidade de entregar o bastão a Aragorn,
+Denethor recusa-se a considerar a possibilidade de entregar o trono a Aragorn,
 ainda que isso significasse a salvação de Gondor. Julga os filhos pela utilidade
 que possuem para seus planos. Consulta o Palantír convencido de que pode medir
 forças com Sauron, e o que vê o conduz não à prudência, mas ao desespero. Quando
@@ -138,8 +138,8 @@ porque um o compreende como função e o outro como posse.**
 ## O bem comum como fim do poder
 
 A distinção que a narrativa apresenta em imagens a filosofia política formulou
-em conceitos, e o fez muito cedo. Aristóteles estabelece o critério que
-atravessará vinte e três séculos de reflexão sobre o tema:
+em conceitos. Aristóteles estabelece o critério que atravessará vinte e três
+séculos de reflexão sobre o tema:
 
 > "As constituições cujo objetivo é o bem comum são corretamente estruturadas,
 > de conformidade com os princípios essenciais da justiça, enquanto as que visam
@@ -148,7 +148,7 @@ atravessará vinte e três séculos de reflexão sobre o tema:
 >
 > (_Política_, 1279a)
 
-A realeza degenera em tirania, a aristocracia em oligarquia, a politia em
+A realeza degenera em tirania, a aristocracia em oligarquia, a politeia em
 democracia -- e o critério da degeneração não é o número dos governantes nem a
 forma das instituições, mas **o fim ao qual o governo se ordena**. Um governo
 pode conservar intactos seus procedimentos, sua legalidade e sua aparência, e
@@ -208,25 +208,22 @@ para toda forma de autoridade:
 Aqui se articulam as duas dimensões. O bem comum é o _fim_ do poder; o serviço é
 a sua _forma_. Um governante pode invocar o bem comum e exercer o poder na forma
 da dominação, e nesse caso o fim declarado funciona apenas como justificação.
-**A autoridade reta reconhece-se, portanto, não pelo que afirma buscar, mas pelo
-modo como se exerce.** É exatamente isso, no caso de Aragorn, que a imagem das
-mãos que curam condensa: um poder cuja manifestação própria é a restituição da
-vida alheia.
+**A autoridade reta reconhece-se, portanto, não somente pelo que afirma buscar,
+mas também pelo modo como se exerce.** É exatamente isso, no caso de Aragorn,
+que a imagem das mãos que curam condensa: um poder cuja manifestação própria é a
+restituição da vida alheia.
 
 ## O poder como agir em conjunto
 
 As duas determinações anteriores dizem respeito ao fim e à forma do poder, mas
-deixam intacta uma pergunta anterior a ambas: o que é o poder? Hannah Arendt
-oferece a resposta que falta, e que se revela decisiva para o argumento.
-
-Em _Sobre a Violência_ (1970), Arendt sustenta que o poder jamais é propriedade
-de um indivíduo. Ele corresponde à capacidade humana de agir em conjunto e
-pertence, por isso, a um grupo -- subsistindo apenas enquanto esse grupo se
-mantém unido. Quando se afirma que alguém está no poder, o que se diz, com
-precisão, é que um determinado número de pessoas o autorizou a agir em seu nome.
-Dissolvida a adesão que o sustentava, aquilo que se chamava _seu_ poder
-desaparece, e desaparece integralmente, ainda que permaneçam o cargo, o aparato
-e os símbolos.
+deixam intacta uma pergunta anterior a ambas: o que é o poder? Em _Sobre a
+Violência_ (1970), Hannah Arendt sustenta que o poder jamais é propriedade de um
+indivíduo. Ele corresponde à capacidade humana de agir em conjunto e pertence,
+por isso, a um grupo -- subsistindo apenas enquanto esse grupo se mantém unido.
+Quando se afirma que alguém está no poder, o que se diz, com precisão, é que um
+determinado número de pessoas o autorizou a agir em seu nome. Dissolvida a
+adesão que o sustentava, aquilo que se chamava _seu_ poder desaparece, e
+desaparece integralmente, ainda que permaneçam o cargo, o aparato e os símbolos.
 
 Convém advertir que Arendt emprega o termo em sentido mais estrito do que a
 tradição examinada até aqui. Aquilo que Aristóteles e Tomás descrevem como forma
@@ -240,13 +237,13 @@ contrário. Ela é instrumental, depende de meios materiais e pode substituir o
 poder onde este se perdeu, mas jamais o produz. Daí a conclusão que inverte a
 intuição comum: **a tirania é, ao mesmo tempo, a mais violenta e a menos
 poderosa das formas de governo**, porque precisa compelir exatamente aquilo que
-o poder legítimo obtém sem esforço, a saber: o agir conjunto.
+o poder legítimo obtém sem esforço: o agir conjunto.
 
 Aplicada à narrativa, a distinção esclarece muito. Sauron dispõe de meios
 imensos e precisa, ainda assim, coagir permanentemente cada uma de suas
 criaturas, fazendo com que elas coajam umas às outras; sua estrutura não
 sobrevive um instante à destruição do instrumento que a mantinha unida. Aragorn,
-ao contrário, dispõe de recursos comparativamente irrisórios, e o que possui é
+ao contrário, dispõe de recursos comparativamente irrisórios; o que possui é
 adesão: os Dúnedain, Rohan, os homens de Gondor, os companheiros da Sociedade.
 Nesse sentido, **o poder que ele exerce não é seu em nenhum momento -- é o poder
 daqueles que consentiram em agir com ele.** Recebê-lo das mãos de Frodo e de
@@ -336,14 +333,14 @@ vivida como espoliação pessoal.
 
 Cabe ao leitor avaliar em que medida essa descrição corresponde à experiência
 que possui da vida pública brasileira. O que a tradição filosófica permite
-afirmar é mais modesto e mais firme: onde quer que o governo se ordene à
+afirmar é mais modesto e mais firme: **onde quer que o governo se ordene à
 vantagem de quem governa, o que existe é a forma desviada, ainda que preservadas
-todas as aparências institucionais.
+todas as aparências institucionais.**
 
 ## Conclusão
 
-A figura de Aragorn não propõe um modelo de regime político. Ele é rei por
-linhagem, numa ordem monárquica e providencial que nada tem a ver com as
+A análise da figura de Aragorn não propõe um modelo de regime político. Ele é
+rei por linhagem, numa ordem monárquica e providencial que nada tem a ver com as
 instituições contemporâneas, e seria ingênuo extrair da narrativa qualquer
 preferência quanto à forma de governo, ou, mais ingênuo ainda, exaltar o
 saudosismo monárquico como modelo contemporâneo válido. Aquilo que a imagem
@@ -351,26 +348,28 @@ oferece situa-se em outro nível: **a disposição interior diante do poder** --
 essa é universal, valendo igualmente para um chefe de Estado, um bispo, um
 administrador ou um pai de família.
 
-Essa disposição pode ser descrita em três traços que a narrativa torna visíveis.
-O poder é recebido, e não se funda por si mesmo: mesmo quem tem direito a ele o
-aceita das mãos de outros e reconhece-se devedor daquilo que o precede, o que
-não é apenas uma exigência moral, mas a descrição do que o poder é, uma vez que
-ele nunca pertence a quem o exerce, e sim àqueles cuja adesão o mantém de pé. O
-poder é ordenado a um fim que lhe é exterior, de modo que o governante não é a
-medida do próprio governo. E o poder assume a forma do serviço, manifestando-se
-no bem que produz naqueles sobre os quais se exerce, e não na submissão que
-deles obtém.
+Essa disposição pode ser descrita em três traços que a narrativa torna visíveis:
+
+1. o poder é recebido, e não se funda por si mesmo: mesmo quem tem direito a ele
+   o aceita das mãos de outros e reconhece-se devedor daquilo que o precede, o
+   que não é apenas uma exigência moral, mas a descrição do que o poder é, uma
+   vez que ele nunca pertence a quem o exerce, e sim àqueles cuja adesão o
+   mantém de pé;
+2. o poder é ordenado a um fim que lhe é exterior, de modo que o governante não
+   é a medida do próprio governo;
+3. o poder assume a forma do serviço, manifestando-se no bem que produz naqueles
+   sobre os quais se exerce, e não na submissão que deles obtém.
 
 Onde esses três traços se desfazem, o que resta é a _libido dominandi_ -- que
 pode conservar intactas a legalidade, a competência e até o amor à própria
-cidade, como no caso de Denethor, e ainda assim converter o governo em posse.
-Nesse sentido, a distinção decisiva não passa entre governantes bons e maus
-segundo os resultados que alcançam, mas entre aqueles que compreendem o poder
-como peso que lhes foi confiado e aqueles que o compreendem como bem que lhes
-pertence.
+cidade -- como no caso de Denethor -- e ainda assim converter o governo em
+posse. Nesse sentido, a distinção decisiva não passa entre governantes bons e
+maus segundo os resultados que alcançam, mas entre aqueles que compreendem o
+poder como peso que lhes foi confiado e aqueles que o compreendem como bem que
+lhes pertence.
 
 Subir ao trono, na imagem de Tolkien, é assumir um fardo, e não receber uma
 recompensa. É por isso que Aragorn hesita, espera e cura antes de reinar: porque
-compreendeu, antes de governar, aquilo que a tradição sempre afirmou: que a
-autoridade só é legítima enquanto permanece serviço, e que deixa de sê-lo no
+compreendeu -- antes de governar -- aquilo que a tradição sempre afirmou: que a
+autoridade só é legítima enquanto permanece a serviço, e que deixa de sê-lo no
 instante em que se torna finalidade de si mesma.
