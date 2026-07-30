@@ -5,5 +5,5 @@ p {
 
 blockquote p::before,
 blockquote p::after {
-  content: none;
+  content: none !important;
 }
