@@ -1,8 +1,8 @@
 ---
-date: "2026-07-23T10:00:00-03:00"
+date: '2026-07-31T17:11:48-03:00'
 title: "O Poder como Serviço: Aragorn e a Disposição de quem Governa"
 tags: ["filosofia", "literatura"]
-draft: true
+draft: false
 ---
 
 Em _O Senhor dos Anéis_, Aragorn é apresentado como o herdeiro legítimo de um
