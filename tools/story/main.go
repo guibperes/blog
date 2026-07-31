@@ -24,6 +24,7 @@ import (
 	"golang.org/x/image/font"
 	"golang.org/x/image/font/opentype"
 	"golang.org/x/image/math/fixed"
+	"gopkg.in/yaml.v3"
 )
 
 //go:embed fonts/*.ttf
@@ -254,47 +255,31 @@ func parse(path string) (post, error) {
 		return post{}, fmt.Errorf("%s: front matter YAML não encontrado", path)
 	}
 
-	p := post{}
-	inTags := false
-	for _, line := range strings.Split(fm, "\n") {
-		key, val, ok := strings.Cut(line, ":")
-		trimmed := strings.TrimSpace(line)
+	// O YAML lida com valores multilinha, aspas, escapes e listas em
+	// qualquer estilo (inline ou em bloco) — inclusive as quebras que o
+	// Prettier insere. tags aceita string única ou lista.
+	var fields struct {
+		Title       string       `yaml:"title"`
+		Summary     string       `yaml:"summary"`
+		Description string       `yaml:"description"`
+		Date        string       `yaml:"date"`
+		Tags        stringOrList `yaml:"tags"`
+	}
+	if err := yaml.Unmarshal([]byte(fm), &fields); err != nil {
+		return post{}, fmt.Errorf("%s: %w", path, err)
+	}
 
-		// tags em lista de bloco (- espiritualidade)
-		if inTags && strings.HasPrefix(trimmed, "- ") {
-			if p.Tag == "" {
-				p.Tag = unquote(strings.TrimPrefix(trimmed, "- "))
-			}
-			continue
-		}
-		inTags = false
-		if !ok {
-			continue
-		}
-
-		val = unquote(strings.TrimSpace(val))
-		switch strings.TrimSpace(key) {
-		case "title":
-			p.Title = val
-		case "summary", "description":
-			p.Summary = val
-		case "date":
-			for _, layout := range []string{time.RFC3339, "2006-01-02T15:04:05", "2006-01-02"} {
-				if t, err := time.Parse(layout, val); err == nil {
-					p.Date = t
-					break
-				}
-			}
-		case "tags":
-			if val == "" { // lista de bloco nas linhas seguintes
-				inTags = true
-				break
-			}
-			// lista inline: ['filosofia', 'x']
-			val = strings.Trim(val, "[]")
-			if first, _, _ := strings.Cut(val, ","); first != "" {
-				p.Tag = unquote(strings.TrimSpace(first))
-			}
+	p := post{Title: fields.Title, Summary: fields.Summary}
+	if p.Summary == "" {
+		p.Summary = fields.Description
+	}
+	if len(fields.Tags) > 0 {
+		p.Tag = fields.Tags[0]
+	}
+	for _, layout := range []string{time.RFC3339, "2006-01-02T15:04:05", "2006-01-02"} {
+		if t, err := time.Parse(layout, fields.Date); err == nil {
+			p.Date = t
+			break
 		}
 	}
 
@@ -302,20 +287,26 @@ func parse(path string) (post, error) {
 	if p.Summary == "" {
 		p.Summary = firstParagraph(body)
 	}
+	p.Summary = strings.TrimSpace(p.Summary)
 	return p, nil
 }
 
-func unquote(s string) string {
-	s = strings.TrimSpace(s)
-	for _, q := range []string{`"`, `'`} {
-		if len(s) >= 2 && strings.HasPrefix(s, q) && strings.HasSuffix(s, q) {
-			return s[1 : len(s)-1]
-		}
+// stringOrList aceita `tags: x`, `tags: [a, b]` e listas em bloco.
+type stringOrList []string
+
+func (s *stringOrList) UnmarshalYAML(value *yaml.Node) error {
+	if value.Kind == yaml.ScalarNode {
+		*s = stringOrList{value.Value}
+		return nil
 	}
-	return s
+	var list []string
+	if err := value.Decode(&list); err != nil {
+		return err
+	}
+	*s = list
+	return nil
 }
 
-// stripMarkdown remove ênfases e links do texto usado como resumo.
 var mdLink = regexp.MustCompile(`\[([^\]]*)\]\([^)]*\)`)
 
 func stripMarkdown(s string) string {
@@ -404,7 +395,7 @@ func main() {
 		title    = flag.String("title", "", "título (sobrescreve o front matter)")
 		summary  = flag.String("summary", "", "resumo (sobrescreve o front matter)")
 		eyebrow  = flag.String("eyebrow", "NOVO NO BLOG", "texto da sobrancelha")
-		footer   = flag.String("footer", "leia agora", "texto do rodapé")
+		footer   = flag.String("footer", "leia agora · link na bio", "texto do rodapé")
 	)
 	flag.Parse()
 
