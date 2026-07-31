@@ -342,7 +342,7 @@ todas as aparências institucionais.**
 A análise da figura de Aragorn não propõe um modelo de regime político. Ele é
 rei por linhagem, numa ordem monárquica e providencial que nada tem a ver com as
 instituições contemporâneas, e seria ingênuo extrair da narrativa qualquer
-preferência quanto à forma de governo, ou, mais ingênuo ainda, exaltar o
+preferência quanto à forma de governo, ou, mais ingênuo ainda, tomar o
 saudosismo monárquico como modelo contemporâneo válido. Aquilo que a imagem
 oferece situa-se em outro nível: **a disposição interior diante do poder** -- e
 essa é universal, valendo igualmente para um chefe de Estado, um bispo, um
