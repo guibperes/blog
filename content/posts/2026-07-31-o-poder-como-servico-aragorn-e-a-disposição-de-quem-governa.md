@@ -1,6 +1,10 @@
 ---
-date: '2026-07-31T17:11:48-03:00'
+date: "2026-07-31T17:11:48-03:00"
 title: "O Poder como Serviço: Aragorn e a Disposição de quem Governa"
+summary:
+  "Sem justiça, dizia Agostinho, um reino não passa de uma grande quadrilha.
+  Aragorn encarna o oposto: o poder recebido como serviço, e não tomado como
+  posse."
 tags: ["filosofia", "literatura"]
 draft: false
 ---
